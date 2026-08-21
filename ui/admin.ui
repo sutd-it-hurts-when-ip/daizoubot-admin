@@ -1,0 +1,16 @@
+<text x="2" y="1">Daizoubu Admin Panel</text>
+<box x="1" y="3" w="70" h="20" />
+<text x="3" y="5">status={{status}}</text>
+<text x="3" y="7">collection={{collection}}</text>
+<text x="3" y="9"></text>
+<text x="3" y="10">{{documents_0}}</text>
+<text x="3" y="11">{{documents_1}}</text>
+<text x="3" y="12">{{documents_2}}</text>
+<text x="3" y="13">{{documents_3}}</text>
+<text x="3" y="14">{{documents_4}}</text>
+<text x="3" y="16">message={{message}}</text>
+<box x="1" y="24" w="70" h="6" />
+<text x="3" y="25">help: list &lt;collection&gt;, next, prev, page &lt;n&gt;</text>
+<text x="3" y="26">help: status &lt;id&gt; &lt;status&gt;, refund &lt;id&gt;</text>
+<text x="3" y="27">help: q/quit; Enter runs commands</text>
+<text x="3" y="28">press q to quit</text>
